@@ -71,6 +71,7 @@ $ python train.py
 # Run the application
 $ python app.py
 ```
+✅ The fine-tuned model is already provided inside `saved_models/fine_tuned_model/`.
 
 The app will launch at: [http://127.0.0.1:7860/](http://127.0.0.1:7860/)
 
