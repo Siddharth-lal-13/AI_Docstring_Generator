@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings (if using)
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Huggingface cache
+.cache/
+saved_models/
+logs/
+*.safetensors
+*.bin
+
+# Gradio cache
+gradio_cached_examples/
+*.gradio/
+
+# Python pip wheel files
+*.whl
+
+# System files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Environment variables / secrets
+.env
+*.env
