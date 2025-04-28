@@ -65,6 +65,9 @@ $ source venv/bin/activate
 # Install required libraries
 $ pip install -r requirements.txt
 
+# (Optional) If you want to retrain the model yourself:
+$ python train.py
+
 # Run the application
 $ python app.py
 ```
