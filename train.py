@@ -1,4 +1,3 @@
-# train.py
 import os
 import gc
 import torch

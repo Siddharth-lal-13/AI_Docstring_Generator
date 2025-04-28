@@ -1,4 +1,3 @@
-# model.py
 from transformers import pipeline, AutoModelForSeq2SeqLM, AutoTokenizer
 import torch
 from peft import PeftModel

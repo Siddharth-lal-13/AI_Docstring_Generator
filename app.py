@@ -2,7 +2,7 @@ import gradio as gr
 from model import DocstringGenerator
 import torch
 
-# Initialize the model (corrected path)
+# Initialize the model
 generator = DocstringGenerator(model_name="saved_models/fine_tuned_model/",
                                device="cuda" if torch.cuda.is_available() else "cpu")
 
