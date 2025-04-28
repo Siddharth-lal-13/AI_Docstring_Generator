@@ -18,7 +18,6 @@ env/
 
 # Huggingface cache
 .cache/
-saved_models/
 logs/
 *.safetensors
 *.bin
